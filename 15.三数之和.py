@@ -8,7 +8,7 @@
 nums = [-1, 0, 1, 2, -1, -4]
 
 class Solution:
-    def threeSum(self, nums):
+    def threeSum(self, nums) :
         print(nums)
 
 test = Solution()
