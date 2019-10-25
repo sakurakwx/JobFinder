@@ -18,6 +18,9 @@ class Solution:
         prev = self.letterCombinations(digits[:-1])
         additional = mapping[digits[-1]]
         return [s + c for s in prev for c in additional]
-        
+
+digits = '23242'
+test = Solution()
+print(test.letterCombinations(digits))
 # @lc code=end
 
