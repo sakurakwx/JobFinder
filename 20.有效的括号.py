@@ -7,6 +7,8 @@
 # @lc code=start
 class Solution:
     def isValid(self, s: str) -> bool:
-        
+        return 0
+test = Solution()
+
 # @lc code=end
 
