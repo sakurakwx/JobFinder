@@ -1,5 +1,6 @@
->偷偷在leetcode里面偷练托福写作应该不会被发现吧☺️  
-# 综合写作模板
+# Alex Fan's Toefl writing practice
+>偷偷在LeetCode里面偷练托福写作应该不会被发现吧☺️  
+## 综合写作模板
     In the lecture,the professor raises
     objections to the reading's assertion that
     
@@ -16,10 +17,61 @@
     The professor confirms that ...This is due to...
 
 
-# 独立写作练习
+## 独立写作练习
     开头段精选：There are many things to consider in term of...Different people will have different ideas about...Some people think...while others are firmly convinced that...Personally,I believe that...
+### 27 classical expression
+1.prevent..from = keep...from = prohibit...from
+2.tend to = be inclined to = be apt to
+3.get involved in = get in = deal with
+4.fight for = endeavor to do sth = struggle for doing sth
+5.feel the need to = be in the mood to
+6.in favor of = support
+7.due to = because of = as a result of = consequently
+8.insist on = stick to = persist to
+9.crucial = critical = important = significant = vital = essential
+10.current = nearest
+11.varied = various = variable
+12.despite of = in spite of = regardless of
+13.prominent = well-known = famous = noted = celebrated
+14.average = ordinary = general
+15.isolated = independent = separate
+16.available = valid
+17.particular = specific = especial = detailed
+18.try to = manage to = attempt to
+19.impact on = have effect on = work on
+20.retrospect = review = look back on
+21.be based on = build on 
+22.throughout = arround = overall
+23.at times = from time to time = sometimes
+24.take notice = pay attention to take care of
+25.far more = lots of = plenty of
+26.the marjority of = most of masses of
+27.or else = otherwise
 
-##Education - TPO 50
+### 20 outstanding expressions
+1.take interest in = be keen on
+2.get done = accomplish = complete = achieve = finish
+3.bring in = enhance = boost
+4.have access to = make use of
+5.extract...from = draw from
+6.esteem = look up to = respect
+7.be easy to = be prone to = be apt to= be liable to
+8.become/be immune to =rise above
+9.end up doing = come to an end = come to a conclusion = bring to a close
+10.bond with = be in contact with = associate with
+11.transfer to = shift to move
+12.suffer = stand = bear
+13.pivotal = central = primary
+14.inherently = internally = intrinsically
+15.disservice = harm = hurt = injure
+16.distrustful = skeptical = suspicious
+17.insulated = alone = isolated
+18.after all = all in all
+19.be conducive to = be supportive of = be helpful for = be useful for = be beneficial to
+20.affordble = reasonable = cheap = inexpensive
+
+
+### Education - TPO 50 :book:
     Do you agree or disagree with the following statement? All university students should be required to take history courses no matter what their field of study is. Use specific reasons and examples to support your answer.
 
 >Attitude:Neutral
@@ -57,7 +109,7 @@
 
 
 
-## Work - TPO 42
+### Work - TPO 42 :computer:
     Workers are more satisfied when they have many different types of tasks to do during the workday than when they do similar tasks all day long. Use specific reasons and examples to support your answer.
 
 >Attitude:Agree~
@@ -79,4 +131,27 @@
     13.variable = diverse
     14.attain = get = grab
     15.ceiling 天花板
+    16.tear down the ceiling 拆除天花板，突破极限
+
+### Teenager - TPO 48
+    Do you agree or disagree with the following statement?Because modern life is very complex, it is essential for young people to have the ability to plan and organize.Use specific reasons and examples to support your answer.
+
+>Attitude:Agree
+>>  Increasingly sophisticated technology, explosive information and intricate international relationships all work together to complicate the modern life, which makes our modern people somewhat overwhelmed. Individuals whoever want to have a better control of one’s life must equip themselves with some essential skills or abilities. Planning and organizing, which embodies the skill of anticipating, influencing, and controlling, in my view, is becoming gradually important in coping with today’s complication especially for the young who are always the most passionate but also with less self-control.    First of all, planning helps keep one on course in achieving goals and crystallize objectives. Young people always possess some grand dreams which may take years to accomplish. Planning ahead, on the one hand, could effectively put one on the right track thus prevent energy from being scattered or wasted. A survey conducted by experts from Oxford University shows that over 90% of elites and enterprisers had precise objects and made plans for decades later at very young age. Like Bill Gates, one of the most prominent persons I have ever seen, discontinued their studies since he was definite aware of what he should do in order to become the leader of IT field. On the other hand, plans, which are organized step by step, could turn the ultimate goals into several achievable ones. With achievable objective achieved one by one, the ultimate goal will finally be attained.    Besides, planning and organizing help to promise one’s best performance in most occasions. Panning means trying to anticipate all the possibilities and arrange things in a scientific order. It clearly tells people what to do currently and what should do the next, which prevents disorder or chaos. Thus, people may feel assured and will be with less stress. For example, a student who sticks to a study plan is less likely to be nervous thus will be more likely to have better performance than those who crams for tests. Today youngsters are exposed with fierce competitions but also abundant opportunities. Good performance is key to hold these opportunities in hand.    It is undeniable that our society changes at such a quick pace that we cannot plan everything in previous. But this by no means implies that the ability is not important. Without a plan, complex things will only get more complicated. Abraham Lincoln reportedly once said, “If I had 60 minutes to cut down a tree, I would spend 40 minutes sharpening the ax and 20 minutes cutting it down.”  Planning is just like “sharpening the ax”, which will no doubt facilitate a task easy done.    All in all, though the ability of planning and organizing may not be omnipotent for people especially the young to cope with new situations in today’s complex society, it does facilitate to fulfill one’s life goals and help to improve one’s performance when opportunities come. 
+
+    1.intricate 错综复杂的
+    2.equip with = embody
+    3.crystallize objectives 明确目标
+    4.prevent from
+    5.prominent = outstanding = famous = well-known
+    6.ultimate = final
+    7.in most occasions 在大多数情况/场合下
+    8.fierce competition 激烈的竞争
+    9.it is undeniable... = it is undoubtedly...
+    10.in previous 预先
+    11.by no means 绝不是
+    12.Abraham Lincoln reportedly once said, “If I had 60 minutes to cut down a tree, I would spend 40 minutes sharpening the ax and 20 minutes cutting it down.” 
+    13.omnipotent 无所不能的
+    14.cope with 面对，应对。（类似于face/deal with.)
+    15.facilitate = benifit = promote
 
