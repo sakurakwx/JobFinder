@@ -19,59 +19,63 @@
 
 ## 独立写作练习
     开头段精选：There are many things to consider in term of...Different people will have different ideas about...Some people think...while others are firmly convinced that...Personally,I believe that...
-### 27 classical expression
-1.prevent..from = keep...from = prohibit...from
-2.tend to = be inclined to = be apt to
-3.get involved in = get in = deal with
-4.fight for = endeavor to do sth = struggle for doing sth
-5.feel the need to = be in the mood to
-6.in favor of = support
-7.due to = because of = as a result of = consequently
-8.insist on = stick to = persist to
-9.crucial = critical = important = significant = vital = essential
-10.current = nearest
-11.varied = various = variable
-12.despite of = in spite of = regardless of
-13.prominent = well-known = famous = noted = celebrated
-14.average = ordinary = general
-15.isolated = independent = separate
-16.available = valid
-17.particular = specific = especial = detailed
-18.try to = manage to = attempt to
-19.impact on = have effect on = work on
-20.retrospect = review = look back on
-21.be based on = build on 
-22.throughout = around = overall
-23.at times = from time to time = sometimes
-24.take notice = pay attention to take care of
-25.far more = lots of = plenty of
-26.the majority of = most of masses of
-27.or else = otherwise
+### 27 classical expression :pen:
+    1.prevent..from = keep...from =     prohibit...from
+    2.tend to = be inclined to = be apt to
+    3.get involved in = get in = deal with
+    4.fight for = endeavor to do sth =  struggle for doing sth
+    5.feel the need to = be in the mood to
+    6.in favor of = support
+    7.due to = because of = as a result of  = consequently
+    8.insist on = stick to = persist to
+    9.crucial = critical = important =  significant = vital = essential
+    10.current = nearest
+    11.varied = various = variable
+    12.despite of = in spite of =   regardless of
+    13.prominent = well-known = famous =    noted = celebrated
+    14.average = ordinary = general
+    15.isolated = independent = separate
+    16.available = valid
+    17.particular = specific = especial =   detailed
+    18.try to = manage to = attempt to
+    19.impact on = have effect on = work on
+    20.retrospect = review = look back on
+    21.be based on = build on 
+    22.throughout = around = overall
+    23.at times = from time to time =   sometimes
+    24.take notice = pay attention to take  care of
+    25.far more = lots of = plenty of
+    26.the majority of = most of masses of
+    27.or else = otherwise
 
-### 20 outstanding expressions
-1.take interest in = be keen on
-2.get done = accomplish = complete = achieve = finish
-3.bring in = enhance = boost
-4.have access to = make use of
-5.extract...from = draw from
-6.esteem = look up to = respect
-7.be easy to = be prone to = be apt to= be liable to
-8.become/be immune to =rise above
-9.end up doing = come to an end = come to a conclusion = bring to a close
-10.bond with = be in contact with = associate with
-11.transfer to = shift to move
-12.suffer = stand = bear
-13.pivotal = central = primary
-14.inherently = internally = intrinsically
-15.disservice = harm = hurt = injure
-16.distrustful = skeptical = suspicious
-17.insulated = alone = isolated
-18.after all = all in all
-19.be conducive to = be supportive of = be helpful for = be useful for = be beneficial to
-20.affordable = reasonable = cheap = inexpensive
+### 20 outstanding expression🤩
+    1.take interest in = be keen on
+    2.get done = accomplish = complete = achieve = finish
+    3.bring in = enhance = boost
+    4.have access to = make use of
+    5.extract...from = draw from
+    6.esteem = look up to = respect
+    7.be easy to = be prone to = be apt to= be liable to
+    8.become/be immune to =rise above
+    9.end up doing = come to an end = come to a conclusion = bring to a close
+    10.bond with = be in contact with = associate with
+    11.transfer to = shift to move
+    12.suffer = stand = bear
+    13.pivotal = central = primary
+    14.inherently = internally = intrinsically
+    15.disservice = harm = hurt = injure
+    16.distrustful = skeptical = suspicious
+    17.insulated = alone = isolated
+    18.after all = all in all
+    19.be conducive to = be supportive of = be helpful for = be useful for = be beneficial to
+    20.affordable = reasonable = cheap = inexpensive
 
+
+
+> The following is almost all of the Topics of Toefl independent writing
 
 ### Education - TPO 50 :book:
+
     Do you agree or disagree with the following statement? All university students should be required to take history courses no matter what their field of study is. Use specific reasons and examples to support your answer.
 
 >Attitude:Neutral
@@ -135,7 +139,7 @@
     15.ceiling 天花板
     16.tear down the ceiling 拆除天花板，突破极限
 
-### Teenager - TPO 48
+### Teenager - TPO 48 :boy:
     Do you agree or disagree with the following statement?Because modern life is very complex, it is essential for young people to have the ability to plan and organize.Use specific reasons and examples to support your answer.
 
 >Attitude:Agree
@@ -158,7 +162,7 @@
     14.cope with 面对，应对。（类似于face/deal with.)
     15.facilitate = benefit = promote
 
-### Child - TPO 44
+### Child - TPO 44 :baby:
     Some people believe that when busy parents do not have a lot of time to spend with their children, the best use of that time is to have fun playing games or sports. Others believe that it is best to use that time doing things together that are related to schoolwork. Which of the two approaches do you prefer? Use specific reasons and examples to support your answer.
 
 >​	In recent years, there has been a trend among busy parents toward utilizing spare time to have fun such as arts and sports, because these entertainment activities do not have a direct relation with children’s schoolwork. It lies in the fact that education is valuable by people only when it improves students’ academic record. Although playing games and sport are not directly related to academic record, these entertainment activities have countless benefits to students’ success in their future careers. The idea that sport is important to children’s development has been widely accepted.
@@ -176,7 +180,7 @@
     9.be addicted to
     10.self-esteem = confident 自尊
 
-### Society - TPO 52
+### Society - TPO 52 :classical_building:
     Do you agree or disagree with the following statement? The rules that societies today expect young people to follow and obey are too strict. Use specific reasons and examples to support your answer.
 
 >Within recent 30 years, our society has witnessed and experienced radical changes in each and every aspect of our life. Under this circumstance, young people are also faced with a wide range of temptations and impacts brought by various objects, from fancy entertainment gadgets, to online pornography and to subversive conception, which is why there are many rules nowadays for youngsters to follow and obey to insulate them from juvenile delinquency. However, some people may wonder whether some of these rules are too strict and serious and whether they should make a compromise. As far as I’m concerned, some rules may be too much and even may do harm to their natural development. First, some parents may order their children to devote most of their time to study and prevent them from any access to leisure and entertainment. Frequently, parents would have unreasonable expectations of their kids, hoping that they could show an outstanding performance in their school, be admitted into a top-rank university and own a decent career right after graduation. Because of these expectations, they would set a limit on hours on which children could spend watching television and even register for all kinds of extra curriculums to make their children more competent than their peers. But this teaching method will be very detrimental to their beloved sweethearts in that young children’s instinct prefers relaxing and exciting games and entertainment to tiring and killing studies and assignments. In the long run, it is likely to turn a kid into a dumb nerd, who has no idea of how to relax and enjoy each moment of life. What’s the point of forging a child into an outstanding individual while he loses the fun and joy of life forever and ever? Second, some parents are likely to forbid their children from puppy love or any form of intimate relationships they may establish with someone they like. Some parents may be afraid that falling into an early-stage romantic relation could be a distraction for their innocent kids, for which they may skip their regular classes to date or even earn a bad grades in their mid-term or final exams. Due to these fears and worries, parents usually curb any of their children’s close connection with a boy or a girl in the cradle. Nevertheless, this is unhealthy to a child’s mental development because owning a longtime and steady relationship is an indispensable component in people’s life. If children have never had any experience of dealing with the person they have a crush on, they are likely to be sensitive to the other’s emotional reaction, thus being emotionally vulnerable when they become an adult. In another word, isolating children from any access to any romantic relationship is too severe for them to follow. Admittedly, rules sometimes are necessary because they could do good to children’s self-discipline and future development. For instance, too much entertainment and leisure could cause a child to indulge himself in it and get addicted; falling in love with another person and thus forming an unhealthy obsession could cost a young child too much and take him a long time to recover. All these incidents just show the necessity of rules and disciplines. But leaving children no time for fun and relaxation is too absolute, arbitrary and even devastating and we should make every effort to stop extremes from happening. In a nutshell, we should avoid those too strict rules and guide our children in a healthy and sustainable way.
@@ -190,18 +194,69 @@
     7.in another word
     8.in a nutshell
 
-### Media - TPO 52
+### Media - TPO 52 :video_camera:
     Do you agree or disagree with the following statement? Movies and television have more negative effects than positive effects on the way young people behave. Use specific reasons and examples to support your answer.
 
 >​	Due to the occurrence of modern social media, we are entering a new era of information exploration. We absorb a variety of information on a daily basis, from the latest political campaign to the cutting-edge medical discovery and we are witnessing the world developing at a rapid rate. Nevertheless, this leads people to the discussion of the impact of daily social media.
 >
 >​	 One side assumes that movies and television brings about more positive and proactive influence on the way people behave. ***However, I am a firm believer in that harmful effects outweigh beneficial ones.***The reasons and examples are as follows. In the first place, the crime rate all over the world is now escalating, which may result from the violent fighting scenes and storyline of some films as well as TV programs. In order to boost audience rating, many producers are likely to add a number of violent and scary elements into their programs. Siblings may turn back on each other just for the purpose of family legacy; Spouses would think of murders because they are afraid that their affair may be found by their beloved ones; a protagonist, in order to save hostages, may kill so many good-bad men with destructive weapons. All these plots and stories would definitely mislead the youth to imitate the characters' words and behaviors. No wonder juvenile delinquency is showing up unexpectedly. This is one piece of solid evidence about the negative effects of movies and television. In the second place, the morality is torn apart due to many dark information existing in the social media. In the past, people could hardly imagine that their close friends or best mate would deceive them. Especially, in those ancient civilization, loyalty is the quality valued quite much by the whole community and people who made use of traps to set up their friends would be despised by others. However, the circumstance has changed drastically. For the sake of one’s own interest, they could take any action whatever the cost, even including hurting the ones who love them most. With more and more appearance of such incidents, a not-to-trust-anyone atmosphere is prevailing and dominating. This may also be brought about by many TV serials that we watch each day, such as Desperate Housewives, Gossip Girls and so forth. Admittedly, social media do have their bright sides. For instance, Sesame Street, one educational TV program in the U.S., which was once very popular among children. The young people can learn various scientific knowledge and discoveries in it. What’s more, the characters are very entertaining and humorous, which make children love it even more. However, from my own perspective, given the current situation, the dark sides of social media definitely outrun the bright ones and it is urgent for us to think of solutions to compensate. In a nutshell, I suppose movies and television have more detrimental influence than positive one on how young people behave.
-    1.drastically 剧烈的
-    2.sake 利益，目的。for the sake of one's own interest
-    3.With more and more appearance of such incidents
-    4.Admittedly...
+​    1.drastically 剧烈的
+​    2.sake 利益，目的。for the sake of one's own interest
+​    3.With more and more appearance of such incidents
+​    4.Admittedly...
 
-### Family - TPO 28
+### Family - TPO 28 :house:
     Do you agree or disagree with the following statement? Parents today are more involved in their children’s education than were parents in the past.Use specific reasons and examples to support your answer.
 
->The involvement of parents in their children’s education has been acknowledged to include not only the exact knowledge and values they would tell their children but also the attention they would pay to their children’s educational process as well as the role they would play during the decision-making process. From my perspective, modern parents are more related to their children’s educational aspects than parents are in the past. It could not be denied that parents in the modern society would bear much more responsibilities and burdens as well than those in the past such as the financial pressure to support the family, due to the increasing desire of individuals and the economic reality in the present society. That means modern parents would spend plenty of time on earning money and have less time to be with their children or to actually teach them. However, the real situation regarding the children education is that parents in the present are more likely to emphasize the education of their children in various respects such as arranging the detailed study plan for their children. Moreover, the emphasis children would receive on their education from the parents has been increased significantly in the contemporary society, because of the fact that individuals now have generally believed in the essential influence of the education on people especially the younger generation. That significance could be realized by the modern parents during their working and social experiences, and it to a great extent could be comprehended due to the reality that the well-educated person has been demanded in relatively every area of the current society. Therefore, in order to help their children to become successful and qualified, parents in the present have been inclined to check or help with their school projects, to have them acquire multiple skills, and to expect them to receive the best education at a higher level, which would not be the focus of the parents in the past who even did not care about the educational situation of their children and merely held the expectation that the children could help to support the family in terms of the finance as soon as possible. Furthermore, it has been proposed that current parents have been more active during the process of making decisions related to their children's educational choices than the past. That could suggest that to some extent they would like to exert an influence on the children and their educational affairs rather than be willing to let their children to have the independent decision-making process as they did in the past, which might be due to the possibility that the present parents might place more emphasis on their children’s education and not want them to make any mistakes. However, this situation could probably be interpreted that the modern parents could be considered to be the better educated people themselves and could assist their children to choose wisely and appropriately by offering the relevant information and reasonable advice in the course of educational matters such as how to plan their time arrangements, what major they would study in, and whether they should have a gap year before entering the university. In conclusion, although modern parents might have less time with their children than those in the past during their educational period, they definitely could be regarded as more active in the participation in their children's educational activities in terms of the attention they might pay and the positive effort they might provide to help their children to make educational decisions due to the fact that they perceive the importance.
+>The involvement of parents in their children’s education has been acknowledged to include not only the exact knowledge and values they would tell their children but also the attention they would pay to their children’s educational process as well as the role they would play during the decision-making process. From my perspective, modern parents are more related to their children’s educational aspects than parents are in the past. It could not be denied that parents in the modern society would bear much more responsibilities and burdens as well than those in the past such as the financial pressure to support the family, due to the increasing desire of individuals and the economic reality in the present society. That means modern parents would spend plenty of time on earning money and have less time to be with their children or to actually teach them. However, the real situation regarding the children education is that parents in the present are more likely to emphasize the education of their children in various respects such as arranging the detailed study plan for their children. Moreover, the emphasis children would receive on their education from the parents has been increased significantly in the contemporary society, because of the fact that individuals now have generally believed in the essential influence of the education on people especially the younger generation. That significance could be realized by the modern parents during their working and social experiences, and it to a great extent could be comprehended due to the reality that the well-educated person has been demanded in relatively every area of the current society. Therefore, in order to help their children to become successful and qualified, parents in the present have been inclined to check or help with their school projects, to have them acquire multiple skills, and to expect them to receive the best education at a higher level, which would not ***be the focus of*** the parents in the past who even did not care about the educational situation of their children and merely held the expectation that the children could help to support the family in terms of the finance as soon as possible. Furthermore, it has been proposed that current parents have been more active during the process of making decisions related to their children's educational choices than the past. That could suggest that to some extent they would like to exert an influence on the children and their educational affairs rather than be willing to let their children to have the independent decision-making process as they did in the past, which might be due to the possibility that the present parents might place more emphasis on their children’s education and not want them to make any mistakes. However, this situation could probably be interpreted that the modern parents could be considered to be the better educated people themselves and could assist their children to choose wisely and appropriately by offering the relevant information and reasonable advice in the course of educational matters such as how to plan their time arrangements, what major they would study in, and whether they should have a gap year before entering the university. In conclusion, although modern parents might have less time with their children than those in the past during their educational period, they definitely could be regarded as more active in the participation in their children's educational activities in terms of the attention they might pay and the positive effort they might provide to help their children to make educational decisions due to the fact that they perceive the importance.
+
+    1.be acknowledged to 被认为是
+    2.be related to
+    3.it couldn't be denied that
+    4.That significance could be realized by 
+    5.be inclined to
+    6.to some extent 从某种程度上讲
+    7.assist sb to do
+    8.perceive = feel
+    9.be the focus of
+
+### Lifestyle - TPO49 :swimming_man:
+    Do you agree or disagree with the following statement?The ability to maintain friendships with a small number of people over a long period of time is more important for happiness than the ability to make many new friends easily.Use specific reasons and examples to support your answer.
+
+> Friendship and kinship contribute a lot to one’s happiness. Then, the question goes, “does the ability to main long-term friendships with a small number of people matters more than the ability to make many new friends easily?” My answer is “yes”.  First of all, old friends usually show stronger loyalty than those newly-acquainted fellows. That means, no matter what happens, these friends would always stand by your side and provide you with supports unconditionally. However, this merit is usually missing in short-term friendship. Last year when I was in hospital, 2 of my old friends took turns to take care of me, accompanying me to endure the very hard time. However, few of my “wide-range” new friends even came to visit me. It is clearly that long-term friendship is much more reliable and the ability to main such kind of relationship is more critical.  In addition, old friends tend to show more understanding of you, being familiar with your hobbies, interests and some other peculiarities. So, it is usually more comfortable for me to be with my old friends. For instance, I am lactose intolerant and every time when I have dinner with my old friends, they would skip anything that contains milk or cheese, ordering food based on my favor. Contrary to my old friends’ consideration, those newly-acquainted fellows are inclined to show surprise about my intolerance and still pick the food of lactose they prefer. So, to me, old friends are much more considerate and contribute more to my happiness.  Admittedly, the ability to make new friends easily are quite important for a person to get new ideas, broadening their views from different groups of people. However, compared with the ability to maintain long-term friendship, it still plays a less significant role for one’s happiness.  To sum up, one’s happiness is consist of various parts, including self-achievement, security and etc. And I believe long-term friendship is of higher importance than other parts. As a result, the ability to maintain long-term friendship with a small group of people is much more important. 
+
+    1.contribute...to
+    2.merit = advantage
+    3.broaden sb's views
+    4.to sum up
+
+### Technology - TPO11 :battery:
+    Some people say that the Internet provides people with a lot of valuable information. Others think access to much information creates problems. Which view do you agree with? Use specific reasons and examples to support your answer.
+
+>Internet must be one of the greatest inventions during the 20th century. It shortens the distance between people all over the world by providing various kinds and large amounts of information. In my point of view, I agree that Internet can provide a lot of valuable information, which would benefit us in the long run without troubling at all. By surfing through the Internet, we can get large quantities of useful skills, which can benefit ourselves, from the information that is available on the Internet. Learning these skills can help us keep healthy, gain more money or even improve our living standard. In my country, there used to be some isolated villages, where books and knowledge are hard to spread. People living in these villages lack the basic skills to have a good harvest and they live in the really poor condition. Meanwhile, our government has helped them to have access to the Internet recently and the villagers can get the information they want without any difficulties. By using this information, they improved their living conditions. Therefore, information getting from the Internet can benefit our lives. Another important aspect is the current affairs. Internet could offer us a lot of information about things happened all over the world without peopling travelling around the world. From the new scientific discovery to the war in the Middle East, from the economic crisis happened in Europe to the World  Cup  held  in  South  Africa,  things  happened  in  every  corner  of  the  world  can  be  known worldwide in no minute through the Internet. Under this circumstance, people can have their own opinions on these affairs, or they can give their hands to the ones who need help. Internet gives us a chance to learn more about the whole world by proving us information. Admittedly, there is some unreal information on the Internet. On the contrary, I do not think it as a trouble at all. The existence of unreal information forces us to be critical thinking and have the ability to tell the truth. In addition, it is the person who creates unreal news rather than the Internet to be blamed. All in all, the Internet is a great tool to offer us tremendous amount of information. Surrounded by large amount of information can broad our sight and make us more intelligent rather than trap us into troubles.
+
+    1.shorten the distance between
+    2.in my point of view
+    3.surrounded by...
+    4.trap sb into troubles
+
+### Abstract - TPO38 :art:
+    Do you agree or disagree with the following statement?leadership comes naturally: one cannot learn to be a leader.Use specific reasons and examples to support your answer.
+>Independent Writing Nowadays, leadership as an important factor in achieving success gradually becomes one of the most popular topics not only in college but also in various companies. Some people argue that leadership comes naturally while others hold that one can learn to be a leader. In fact, leadership is a general concept. It can be classified into two notions: leading skills and charisma. Leading skills can be learned but charisma comes naturally. First of all, leading skills refer to several specific techniques which can be mastered after systematic training. These techniques include the decomposition of big goals, the use of incentive mechanism, proper distribution of work, tips on balancing the interests of various parties and so on. Experts in management field have already work out mature theories or principles in these aspects. With adequate practice, it is not difficult to use them skillfully. Furthermore, even if without systematic theories, leading skills can be improved through the accumulation of practical experience. A man whose major has nothing to do with management can still become an outstanding team leader if he has the experience to be an organizer in his college clubs. How to make the whole team collaborate efficiently and fulfill the goal in a firm sometimes is common with the same thing in a university. In contrast, a person with no relevant experience will find it harder to lead a team at first. But he will make it at last after enough practice. Nevertheless, differently from specific leading skills, charisma in most cases can’t be acquired through special training. This kind of glamour refers to the attraction which can cast positive impact on his subordinates. Such kind of attractive power comes from the leader’s nature disposition which is to some extent hard to change during one’s life and rich social experience which is impossible to get by merely absorbing indirect experience. In general, charisma comes naturally and only a few of us has this kind of spiritual attraction who make great contributions in human’s history. But for ordinary people like us, some useful leading techniques is enough for us. We have easy access to these specific methods thanks to the Internet era. Knowledge spreads widely on the Internet. What’s better, a large sum of them charge nothing. Therefore, it is not difficult for us to become a qualified team leader. 
+
+    1.refer to
+    2.with adequate practice 
+        adequate = enough
+    3.in contrast 与此形成鲜明对比
+    4.glamour 魅力
+
+### Government - TPO 54 :memo:
+    Do you agree or disagree with the following statement? It is more important for governments to spend money to improve Internet access than to improve public transportation. Use specific reasons and examples to support your answer.
+
+>​	The development of science and technology has come to pervade every aspect of our lives, especially the influence from the internet, which is changing people's life in a quite unprecedented speed, and as a result, some people consider government should spend money to improve internet access. After taking various factors into consideration, I, on the contrary, reckon that improving public transportation deserves more financial support from the government. Firstly, improvement of public transportation could help to solve the serious environmental problems nowadays. Undoubtedly, the disastrous consequence of environmental pollution has been quite obvious, such as the gloomy haze obscuring the top of the skyscrapers, acid rain poisoning farmland and eroding buildings, sea level rise resulting from global temperature rise etc., which urgently calls for effective measures to resolve all these life-threatening challenges. Public transportation capable of vast passenger volume could be one efficient way to take the place of various private vehicles whose exhaust emission is the main pollutants. For example, I am living in one city in North China that suffered bitterly from air pollution. In order to recover the blue sky, last year our government carried out one policy to lower the price of the bus together with improved services. Not surprisingly, more passengers chose to take public transportation. With less exhaust emission from the private vehicles, the air quality was improved since then. Secondly, compared with internet access, public transportation could benefit more people. Admittedly, with the appearance of various social softwares, internet, because of its efficiency and convenience, does serve as one important role in communication, but not everyone can be proficient or even familiar with internet. We should not ignore the sobering fact that there are still a large amount of illiterate people especially in the remote poverty-stricken areas. Being unable to read or type prevents them from getting online no matter how convenient the Internet access is. By contrast, public transportation could help those areas to connect with outside developed urban areas to develop their economy. The railway connecting eastern China and Tibet could be one persuasive example. Before this railway was built, the lagging economic situation in Tibet constrained the improving of people's living standard. Many family even could not afford their children to get education, while after the Chinese government built the railway to connect Tibet to the outside developed areas, Tibet's economy has been developing dramatically as the railway introduces more industries and encourages tourism, and as a result, large numbers of local people could benefit from what the public transportation promises. Conclusively, since public transportation could ensure both improved environment and economy, the government is highly advised to spend money on improving public transportation.
+
+    1.Undoubtedly
+    2.After take various factors into consideration,I,on the contrary,reckon that 
+    3.By contrast
+    4.be one persuasive example/instance
+    5.in conclusion = conclusive
