@@ -1,4 +1,4 @@
- Test process：
+# Test process：
 
 Before 8:30 am Arrive
 
@@ -48,13 +48,13 @@ Speaking Section
 
 Writing Section
 
->1 independ 
+>1 independent 
 >
 >> Reading and listening
 >>
 >> 20 minutes to write down
 >
->1 integratd
+>1 integrated
 >
 >> 30 minutes to write down(agree or disagree)
 
@@ -67,3 +67,5 @@ The plan of preparation:
 2.科学60秒 APP 加速版
 
 3.口语模版 + 写作模版
+
+## The second ! Up ! Smith

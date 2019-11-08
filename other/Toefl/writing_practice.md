@@ -84,7 +84,7 @@
 
     Good expression:
     1.advent 出现 
-    2.modernization 现在化
+    2.modernization 现代化
     >with the advent of modernization
     3.seek for = find
     4.enhance sth
@@ -98,7 +98,7 @@
     12.nevertheless
     13.from my perspective
     14.depend on
-    15.consider = take into account/factor
+    15.consider = take into account/factor = take sth into consideration
     16.stare at = focus on
     17.marvelous = unbelievable
     18.build = establish
