@@ -69,3 +69,4 @@ The plan of preparation:
 3.口语模版 + 写作模版
 
 ## The second ! Up ! Smith
+Continue to work hard!
