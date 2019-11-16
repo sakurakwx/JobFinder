@@ -8,7 +8,7 @@
 //}
 
 //2.poj1005
-//#include <stdio.h>
+//#include <stdio.h> 
 ////#include <math.h>
 ////#define PI acos(-1)
 //int main(void){
