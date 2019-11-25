@@ -39,10 +39,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = "/Users/alexfan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.5096.27/CLion 2019.3 EAP.app/Contents/bin/cmake/mac/bin/cmake"
+CMAKE_COMMAND = "/Users/alexfan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.5233.10/CLion 2019.3 EAP.app/Contents/bin/cmake/mac/bin/cmake"
 
 # The command to remove a file.
-RM = "/Users/alexfan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.5096.27/CLion 2019.3 EAP.app/Contents/bin/cmake/mac/bin/cmake" -E remove -f
+RM = "/Users/alexfan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.5233.10/CLion 2019.3 EAP.app/Contents/bin/cmake/mac/bin/cmake" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /Users/alexfan/Desktop/LeetCode/other/poj/cmake-build-debug
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"/Users/alexfan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.5096.27/CLion 2019.3 EAP.app/Contents/bin/cmake/mac/bin/cmake" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"/Users/alexfan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.5233.10/CLion 2019.3 EAP.app/Contents/bin/cmake/mac/bin/cmake" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -70,7 +70,7 @@ rebuild_cache/fast: rebuild_cache
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"/Users/alexfan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.5096.27/CLion 2019.3 EAP.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
+	"/Users/alexfan/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/193.5233.10/CLion 2019.3 EAP.app/Contents/bin/cmake/mac/bin/cmake" -E echo No\ interactive\ CMake\ dialog\ available.
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
