@@ -33,9 +33,15 @@
 //}
 
 //3.poj1753
-#include <stdio.h>
+#include <iostream>
+using namespace
 int main(){
+#if 0
     printf("Flip Game!");
+#else
+    printf("alexfan！");
+#endif
+
 }
 
 
