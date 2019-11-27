@@ -34,10 +34,11 @@
 
 //3.poj1753
 #include <iostream>
-using namespace
+using namespace std;
+const int a = 0;
 int main(){
-#if 0
-    printf("Flip Game!");
+#if 1
+    cout << a << "\nalexfanwei" << endl;
 #else
     printf("alexfan！");
 #endif
