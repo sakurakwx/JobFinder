@@ -41,6 +41,7 @@ int main(){
     cout << a << "\nalexfanwei" << endl;
 #else
     printf("alexfan！");
+    
 #endif
 
 }
