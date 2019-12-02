@@ -362,6 +362,74 @@ int main()
 # 8.poj3233
 
 ```c++
+#include <iostream>
+#include <algorithm>
 
+using namespace std;
+const int max_number = 110;
+const int mod = 2;
+typedef long long ll;
+
+struct matrix {
+    ll a[max_number][max_number];
+};
+
+matrix que, ans;
+
+long long n, k, m;
+
+matrix multip( matrix x, matrix y ) {
+    matrix tmp;
+    for( ll i = 0; i < 2*n; i ++ ) {
+        for( ll j = 0; j < 2*n; j ++ ) {
+            tmp.a[i][j] = 0;
+            for( ll k = 0; k < 2*n; k ++ ) {
+                tmp.a[i][j] = ( tmp.a[i][j] + x.a[i][k] * y.a[k][j] ) % m;
+            }
+        }
+    }
+    return tmp;
+}
+void func( ll x ) {
+    while(x) {
+        if( x&1 ) {
+            ans = multip( ans, que );
+        }
+        que = multip( que, que );
+        x /= 2;
+    }
+}
+
+int main() {
+    while( cin >> n >> k >> m ) {
+        memset( ans.a, 0, sizeof(ans.a) );
+        memset( que.a, 0, sizeof(que.a) );
+        for( ll i = 0; i < n; i ++ ) {
+            for( ll j = 0; j < n; j ++ ) {
+                cin >> que.a[i][j];
+            }
+        }
+        for( ll i = n; i < 2*n; i ++ ) {
+            que.a[i][i-n] = que.a[i][i] = 1;
+        }
+        for( ll i = 0; i < 2*n; i ++ ) {
+            ans.a[i][i] = 1;
+        }
+        func(k+1);
+        for( ll i = n; i < 2*n; i ++ ) {
+            for( ll j = 0; j < n; j ++ ) {
+                if( i == j+n ) {
+                    ans.a[i][j] --;
+                }
+                if( j != n-1 ) {
+                    cout << ( ans.a[i][j] + m ) % m << " ";
+                } else {
+                    cout << ( ans.a[i][j] + m ) % m << endl;
+                }
+            }
+        }
+    }
+    return 0;
+}
 ```
 
