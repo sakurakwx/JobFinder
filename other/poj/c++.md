@@ -459,3 +459,18 @@ member_type3 member_name3;
 } object_names;//数据结构的定义.
 ```
 
+
+
+# Others
+
+* memset(str,int n ,int a);
+
+	> memset(结构体/数组名 , 用于替换的ASCII码对应字符 , 前n个字符 );
+	>
+	> 头文件 string
+
+* memset(str,char n ,int a);
+
+	> memset(结构体/数组名 , "用于替换的字符“ , 前n个字符 );
+	>
+	> 头文件 string
