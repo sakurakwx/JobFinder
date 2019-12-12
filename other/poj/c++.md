@@ -461,6 +461,10 @@ member_type3 member_name3;
 
 
 
+# 类&对象
+
+
+
 # Others
 
 * memset(str,int n ,int a);
