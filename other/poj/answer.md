@@ -1,4 +1,4 @@
-#1.poj 1000
+# 1.poj 1000
 
 ```c++
 #include <stdio.h>
@@ -39,7 +39,7 @@ int main(void){
 
 
 
-#3.poj1753
+# 3.poj1753
 
 ```c++
 #include <iostream>
@@ -158,7 +158,7 @@ bool samecolor(){
 
 ```
 
-#4.poj3295
+# 4.poj3295
 
 ```c++
 #include <iostream>
@@ -618,47 +618,70 @@ int main()
 
 # 12.poj1050 To the Max
 ```c++
-#include<iostream>
-#include<algorithm>
-#include<cmath>
-#include<cstring>
+#include <iostream>
+#define SIZE 101
+ 
 using namespace std;
-struct node{
-	int start;
-	int end;
-}p[205];
+ 
+int a[SIZE][SIZE];
+ 
+int MaxSubArray(int n, int* a)
+{
+    int max = 0;
+    int b = 0;
+    for (int i = 0; i < n; i++)
+    {
+        if (b > 0) b += a[i];
+        else b = a[i];
+        if (b > max) max = b;
+    }
+    return max;
+}
+ 
+int MaxSubMatrix(int m, int n)
+{
+    int i, j, k, sum;
+    int max = 0;
+    int b[SIZE];
+    for (i = 0; i < m; i++)
+    {
+        for (k = 0; k < n; k++)
+        {
+            b[k] = 0;
+        }
+       
+
+        for (j = i; j < m; j++)
+        {
+
+            for (k = 0; k < n; k++)
+            {
+                b[k] += a[j][k];
+            }
+            
+            sum = MaxSubArray(k, b);
+            if (sum > max)
+            {
+                max = sum;
+            }
+        }
+    }
+    return max;
+}
  
 int main()
 {
-	int t,n,i,s,e,j,sum,a[500],max;
-	cin>>t;
-	while(t--)
-	{
-		cin>>n;
-		max=-1;
-		memset(a,0,sizeof(a));
-		for(i=0;i<n;i++)
-		{
-			cin>>s>>e;
-			if(s>e)
-			swap(s,e);
-			
-			s=(s+1)/2;
-			e=(e+1)/2;
-			
-			p[i].start=s;
-			p[i].end=e;
-			
-			for(j=p[i].start;j<=p[i].end;j++)
-			{
-				a[j]++;
-				if(a[j]>max)
-				max=a[j]; 
-			 } 
-		}
-		
-		cout<<max*10<<endl;
-	}
-	return 0;
+    int n;
+    cin >> n;
+    for (int i = 0; i < n; i++)
+    {
+        for (int j = 0; j < n; j++)
+        {
+            cin >> a[i][j];
+        }
+    }
+    cout << MaxSubMatrix(n, n) << endl;
+
+    return 0;
 }
 ```
