@@ -2,6 +2,7 @@
     "python.pythonPath": "/Users/alexfan/anaconda3/bin/python",
     "files.associations": {
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "cstring": "cpp"
     }
 }
