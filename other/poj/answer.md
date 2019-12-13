@@ -194,9 +194,6 @@ int main() {
         else cout << "not" << endl; 
     }
 
-    
-        
-    
     return 0;  
 }  
 ```
@@ -433,3 +430,235 @@ int main() {
 }
 ```
 
+# 9:poj1723 SOLDIERS
+```c++
+#include <iostream>
+#include <algorithm>
+using namespace std;
+int main()
+{
+    int n, x[10001], y[10001];
+    cin >> n;
+    for (int i = 0; i < n; i++)
+        scanf("%d%d", &x[i], &y[i]);
+    sort(x, x + n);
+    sort(y, y + n);
+    for (int i = 0; i < n; i++)
+        x[i] -= i;
+    sort(x, x + n);
+    int s = 0;
+    for (int i = 0; i < n / 2; i++)
+        s += x[n - 1 - i] - x[i] + y[n - 1 - i] - y[i];
+    cout << s <<endl ;
+    return 0;
+}
+```
+
+# 10.poj3269 Building A New Barn
+```c++
+#include <cstdio>
+#include <algorithm>
+#include <set>
+using namespace std;
+ 
+const int N = 10000;
+ 
+struct point
+{
+    int x, y;
+};
+ 
+int n;
+point p[N];
+int x[N], y[N];
+int x1, x2, y1, y2;
+set<int> table;
+ 
+inline int f(int x, int y)
+{
+    return (x + 10000) * 100000 + (y + 10000);
+}
+ 
+inline bool find(int x, int y)
+{
+    return table.find(f(x, y)) != table.end();
+}
+ 
+int main()
+{
+    scanf("%d", &n);
+    for (int i = 0; i < n; ++i)
+    {
+        scanf("%d%d", x + i, y + i);
+        p[i].x = x[i];
+        p[i].y = y[i];
+        table.insert(f(x[i], y[i]));
+    }
+    sort(x, x + n);
+    sort(y, y + n);
+ 
+    int sum = 0, cnt = 0;
+    if (n & 1)
+    {
+        x1 = x[n / 2];
+        y1 = y[n / 2];
+        if (find(x1, y1))
+        {
+            for (int i = 0; i < n; ++i)
+            {
+                sum += abs(x1 - x[i]);
+                sum += abs(y1 - y[i]);
+            }
+            ++sum;
+ 
+            x1 = x[n / 2 - 1];
+            x2 = x[n / 2 + 1];
+            for (int i = x1; i <= x2; ++i)
+                if (!find(i, y1))
+                    ++cnt;
+ 
+            y1 = y[n / 2 - 1];
+            y2 = y[n / 2 + 1];
+            for (int i = y1; i <= y2; ++i)
+                if (!find(x1, i))
+                    ++cnt;
+        }
+        else
+        {
+            for (int i = 0; i < n; ++i)
+            {
+                sum += abs(x1 - x[i]);
+                sum += abs(y1 - y[i]);
+            }
+            cnt = 1;
+        }
+    }
+    else
+    {
+        x1 = x[n / 2 - 1];
+        x2 = x[n / 2];
+        y1 = y[n / 2 - 1];
+        y2 = y[n / 2];
+        cnt = (x2 - x1 + 1) * (y2 - y1 + 1);
+        for (int i = 0; i < n; ++i)
+        {
+            sum += abs(x1 - x[i]);
+            sum += abs(y1 - y[i]);
+        }
+        for (int i = 0; i < n; ++i)
+        {
+            if (p[i].x >= x1 && p[i].x <= x2 && p[i].y >= y1 && p[i].y <= y2)
+                --cnt;
+        }
+    }
+    printf("%d %d\n", sum, cnt);
+    return 0;
+}
+```
+
+# 11.poj3579 Median
+```c++
+#include <iostream>
+#include<algorithm>
+using namespace std;
+
+#define pi acos(-1)
+#define lson l,mid,rt<<1
+#define rson mid+1,r,rt<<1|1
+#define rep(i,x,n) for(int i=x;i<n;i++)
+#define per(i,n,x) for(int i=n;i>=x;i--)
+
+typedef pair<int,int>P;
+int gcd(int a,int b){return b?gcd(b,a%b):a;}
+int x[100010];
+int n;
+long long pos;
+bool check(int mid)
+{
+	int r = 0;
+	long long sum = 0;
+	for(int l = 0; l < n; l++)
+	{
+		while(r < n && x[r] - x[l] <= mid) r++;
+		r--;
+		sum += r - l;
+	}
+	return sum < pos; 
+}
+int main()
+{	
+	while(cin >> n)
+	{
+		pos = 1ll * n * (n - 1) / 2;
+		if(pos & 1) pos = pos / 2 + 1;
+		else pos >>= 1;
+		for(int i = 0; i < n; i++)
+		scanf("%d", x + i);
+		sort(x, x + n);
+		if(x[0] == x[n - 1])
+		{
+			cout << 0 << endl;
+			continue;
+		}
+		int l = 0, r = 1e9, mid;
+		while(l <= r)
+		{
+			mid = (r + l) >> 1;
+			if(check(mid))
+			l = mid + 1;
+			else
+			r = mid - 1;
+		}
+		cout << l << endl;
+	}
+ 	return 0;
+}
+
+```
+
+# 12.poj1050 To the Max
+```c++
+#include<iostream>
+#include<algorithm>
+#include<cmath>
+#include<cstring>
+using namespace std;
+struct node{
+	int start;
+	int end;
+}p[205];
+ 
+int main()
+{
+	int t,n,i,s,e,j,sum,a[500],max;
+	cin>>t;
+	while(t--)
+	{
+		cin>>n;
+		max=-1;
+		memset(a,0,sizeof(a));
+		for(i=0;i<n;i++)
+		{
+			cin>>s>>e;
+			if(s>e)
+			swap(s,e);
+			
+			s=(s+1)/2;
+			e=(e+1)/2;
+			
+			p[i].start=s;
+			p[i].end=e;
+			
+			for(j=p[i].start;j<=p[i].end;j++)
+			{
+				a[j]++;
+				if(a[j]>max)
+				max=a[j]; 
+			 } 
+		}
+		
+		cout<<max*10<<endl;
+	}
+	return 0;
+}
+```
