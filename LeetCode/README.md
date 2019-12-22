@@ -1,5 +1,5 @@
 # Alex Fan 's LeetCode Practice
->1
+>1 略
 
 >2
 >> x = y if z else k    
