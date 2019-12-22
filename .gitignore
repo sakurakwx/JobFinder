@@ -188,6 +188,7 @@ Temporary Items
 # Markdown Navigator plugin
 
 ### VisualStudioCode ###
+*.vscode
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
