@@ -1,3 +1,9 @@
+>因为POJ不能使用python,所以就学了一点简单的c++,然后刷了一丢丢题目.以下是通过的一些题目的源码.
+
+**目录**
+
+[toc]
+---
 # 1.poj 1000
 
 ```c++
@@ -430,7 +436,8 @@ int main() {
 }
 ```
 
-# 9:poj1723 SOLDIERS
+# 9:poj1723
+
 ```c++
 #include <iostream>
 #include <algorithm>
@@ -454,7 +461,8 @@ int main()
 }
 ```
 
-# 10.poj3269 Building A New Barn
+# 10.poj3269
+
 ```c++
 #include <cstdio>
 #include <algorithm>
@@ -556,7 +564,8 @@ int main()
 }
 ```
 
-# 11.poj3579 Median
+# 11.poj3579
+
 ```c++
 #include <iostream>
 #include<algorithm>
@@ -616,7 +625,8 @@ int main()
 
 ```
 
-# 12.poj1050 To the Max
+# 12.poj1050
+
 ```c++
 #include <iostream>
 #define SIZE 101
