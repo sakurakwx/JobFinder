@@ -7,6 +7,13 @@
 //
 
 #include <iostream>
+using namespace std;
+class Box{
+public:
+    double length;
+    double breadth;
+    double height;
+};
 
 int main(int argc, const char * argv[]) {
     // insert code here...

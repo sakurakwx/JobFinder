@@ -1,6 +1,8 @@
 # Alex Fan的C++学习笔记
 本文基于读者已有c语言基础.
 
+# 基本语法
+
 ## 注释
 
 ```c++
@@ -461,7 +463,78 @@ member_type3 member_name3;
 
 
 
-# 类&对象
+# 面向对象
+
+## C++类&对象
+
+类定义:是以关键字 **class** 开头，后跟类的名称。类的主体是包含在一对花括号中。类定义后必须跟着一个分号或一个声明列表.
+
+```c++
+class Box{
+  public: //类成员的访问属性.还可以是private或者protected
+  	double length;
+  	double breadth;
+  	double height;
+}//定义一个盒子的类.其中的主体包括在花括号里面
+```
+
+对象定义:对象是根据类来创建的。声明类的对象，就像声明基本类型的变量一样
+
+```c++
+Box Box1;
+Box Box2;
+//如果要访问的话,可以通过.来访问,如下例
+Box1.height = 5.0
+Box1.length = 6.0
+Box1.breadth = 7.0
+volume = Box1.height * Box1.length * Box1.breadth;
+```
+
+## C++类成员函数
+
+```c++
+class Box
+{
+   public:
+      double length;         // 长度
+      double breadth;        // 宽度
+      double height;         // 高度
+      double getVolume(void);// 返回体积
+};
+//其中的getVolume可以在类中直接定义,也可以在类的外部用范围解析运算符::定义这个函数.
+double Box::getVolume(void){
+	return length * breadth * height;
+}
+Box mybox;//创建
+mybox.getVolume();//调用
+```
+
+## C++ 类访问修饰符
+
+**public、private、protected**
+
++ 公有（public）成员
+
+**公有**成员在程序中类的外部是可访问的。您可以不使用任何成员函数来设置和获取公有变量的值.
+
+- 私有 (private) 成员
+
+**私有**成员变量或函数在类的外部是不可访问的，甚至是不可查看的。只有类和友元函数可以访问私有成员。默认情况下，类的所有成员都是私有的。例如在下面的类中，**width** 是一个私有成员，这意味着，如果您没有使用任何访问修饰符，类的成员将被假定为私有成员：
+
+```c++
+class BOX
+{
+  double width;
+  public:
+  	double length;
+  	void setWidth(double wid);
+  	double getWidth(void);
+}
+```
+
+- 保护(protected)成员
+
+**保护**成员变量或函数与私有成员十分相似，但有一点不同，保护成员在派生类（即子类）中是可访问的。
 
 
 
