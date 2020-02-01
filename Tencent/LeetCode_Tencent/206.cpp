@@ -1,29 +1,11 @@
-//
-//  main.cpp
-//  practice
-//
-//  Created by 范唯 on 2020/1/27.
-//  Copyright © 2020 范唯. All rights reserved.
-//
-
-#include <iostream>
-using namespace std;
-
- // Definition for singly-linked list.
-struct ListNode {
-    int val;
-    ListNode *next;
-    ListNode(int x) : val(x), next(NULL) {}
-};
- 
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        int len = 1;
+        int len = 0;
         ListNode * cp1 = head;
         ListNode * cp2 = head;
         ListNode * cp3 = head;
-        while(cp1->next!=NULL){
+        while(cp1!=NULL){
             len+=1;
             cp1 = cp1->next;
         }
@@ -32,17 +14,10 @@ public:
             stack[i] = cp2->val;
             cp2 = cp2->next;
         }
-        for(int i=0;i<len;i--){
+        for(int i=0;i<len;i++){
             cp3->val = stack[i];
             cp3 = cp3 -> next;
         }
         return head;
     }
 };
-
-
-int main(){
-    
-    cout << stack[9] <<endl;
-    
-}

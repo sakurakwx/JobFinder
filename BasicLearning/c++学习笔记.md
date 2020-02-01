@@ -1,7 +1,7 @@
 # Alex Fan的C++学习笔记
 本文基于读者已有c语言基础.
 
-# 基本语法
+# 一.基本语法
 
 ## 注释
 
@@ -463,7 +463,7 @@ member_type3 member_name3;
 
 
 
-# 面向对象
+# 二.面向对象
 
 ## C++类&对象
 
@@ -538,7 +538,66 @@ class BOX
 
 
 
-# Others
+## 继承
+
+继承允许我们依据另一个类来定义一个类.
+
+```c++
+// 定义规则:class derived-class: access-specifier base-class
+class Shape 
+{
+   public:
+      void setWidth(int w)
+      {
+         width = w;
+      }
+      void setHeight(int h)
+      {
+         height = h;
+      }
+   protected:
+      int width;
+      int height;
+};
+class Rectangle: public Shape
+{
+  public:
+  	int getArea()
+    {
+      return width * height;
+    }
+}
+```
+
+| 类型          | 基类public成员 | 基类protected成员 | 基类private成员 |
+| ------------- | -------------- | ----------------- | --------------- |
+| public继承    | public         | protected         | private         |
+| protected继承 | protected      | protected         | private         |
+| private继承   | private        | private           | private         |
+
+- private成员只能被本类成员(类内)和友元访问,不能被派生类访问
+- protected成员可以被派生类访问
+
+![image-20200131174757451](/Users/alexfan/Library/Application Support/typora-user-images/image-20200131174757451.png)
+
+
+
+**多继承:**多继承即一个子类可以有多个父类,它继承了多个父类的特性.
+
+```c++
+class <派生类名>:<继承方式1><基类名1>,<继承方式2><基类名2>,…
+{
+<派生类类体>
+};
+```
+
+
+
+## C++ 重载运算符和重载函数
+
+
+
+# 三.附加内容
 
 * memset(str,int n ,int a);
 
