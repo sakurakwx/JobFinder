@@ -1,5 +1,5 @@
 # Alex Fan 's LeetCode Practice
-
+> 很早以前刷的题目库存,新刷的企业题库都在对应公司的文件夹里面.此文件夹不再维护
 > language:Python3
 
 [toc]
