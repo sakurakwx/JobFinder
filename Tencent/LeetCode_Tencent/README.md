@@ -39,3 +39,6 @@ mat = [[0 for i in range(n)] for i in range(n)]
 
 5.sorted()
 排序
+
+6.sum
+sum(a) = a中所有元素和
