@@ -42,3 +42,6 @@ mat = [[0 for i in range(n)] for i in range(n)]
 
 6.sum
 sum(a) = a中所有元素和
+
+7.divmod()
+商在前,余数在后
