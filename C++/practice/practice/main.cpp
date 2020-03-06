@@ -40,9 +40,3 @@ public:
     }
 };
 
-
-int main(){
-    
-    cout << stack[9] <<endl;
-    
-}
